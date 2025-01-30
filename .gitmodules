@@ -1,0 +1,9 @@
+[submodule "agent"]
+	path = agent
+	url = https://github.com/MetalX-Dev/mxa/
+[submodule "controller"]
+	path = controller
+	url = https://github.com/MetalX-Dev/mxd/
+[submodule "common"]
+	path = common
+	url = https://github.com/MetalX-Dev/mxcommon/
