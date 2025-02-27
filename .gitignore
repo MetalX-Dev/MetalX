@@ -10,3 +10,5 @@ go.work.sum
 
 # Binary file
 out/
+
+.hurl_test/
